@@ -17,7 +17,7 @@ All 5 images follow a unified visual language: dark backgrounds, neon-outlined g
 ## Generated Assets
 
 ### Image 1 — Brand Character / Hero Portrait
-![Image 1 – Brand Character](./images/image1.jpg)
+![Image 1 – Brand Character](image1.jpg)
 
 **Prompt used:**
 ```
@@ -32,7 +32,7 @@ cinematic realism, photorealistic, 1:1 aspect ratio
 ---
 
 ### Image 2 — Hero Scene / Office Interior
-![Image 2 – Hero Scene](./images/image2.jpg)
+![Image 2 – Hero Scene](image2.jpg)
 
 **Prompt used:**
 ```
@@ -47,7 +47,7 @@ cinematic wide-angle shot, dramatic rim lighting, ultra-detailed, 16:9 aspect ra
 ---
 
 ### Image 3 — Logo Concept
-![Image 3 – Logo](./images/image3.jpg)
+![Image 3 – Logo](image3.jpg)
 
 **Prompt used:**
 ```
@@ -61,7 +61,7 @@ cyberpunk aesthetic, vector art, flat design, no text, centered composition, 1:1
 ---
 
 ### Image 4 — Icon Set
-![Image 4 – Icon Set](./images/image4.jpg)
+![Image 4 – Icon Set](image4.jpg)
 
 **Prompt used:**
 ```
@@ -76,7 +76,7 @@ consistent line weight, minimalist, 3x3 grid layout, 1:1 aspect ratio
 ---
 
 ### Image 5 — Social Media Banner / Background
-![Image 5 – Banner](./images/image5.jpg)
+![Image 5 – Banner](image5.jpg)
 
 **Prompt used:**
 ```
