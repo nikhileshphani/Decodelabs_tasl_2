@@ -1,5 +1,5 @@
 # Task 2 — The Creative Visionary 🎨
-### DecodeLabs Generative AI Internship | Batch 2026
+### DecodeLabs Generative AI Internship 
 
 ---
 
@@ -134,4 +134,4 @@ All 5 images share:
 
 ---
 
-*Submitted as part of the DecodeLabs Generative AI Industrial Training — Batch 2026*
+*Submitted as part of the DecodeLabs Generative AI Industrial Training *
