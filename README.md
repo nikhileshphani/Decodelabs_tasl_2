@@ -5,7 +5,7 @@
 
 ## Brand Brief
 
-**Brand Name:** NexCore Tech  
+  
 **Aesthetic:** Cyberpunk-Corporate  
 **Color Palette:** Deep navy black + electric teal + vivid purple  
 **Mood:** Futuristic authority — a corporation that operates at the edge of technology and power  
