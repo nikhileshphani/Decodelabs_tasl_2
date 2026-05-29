@@ -105,7 +105,7 @@ electric teal and violet color palette, 16:9 aspect ratio
 
 ## Image-to-Image Consistency Strategy
 
-Since Bing Image Creator (DALL-E 3) does not natively support image uploads for reference, **style consistency was achieved through a repeating "style anchor phrase"** embedded in every prompt:
+Since DALL-E 3 does not natively support image uploads for reference, **style consistency was achieved through a repeating "style anchor phrase"** embedded in every prompt:
 
 > *"electric teal and purple neon, dark navy/black background, cyberpunk-corporate aesthetic, consistent line weight"*
 
@@ -117,7 +117,7 @@ For true image-to-image translation (available in tools like DALL-E via ChatGPT 
 
 ## Tools Used
 
-- **Image generation:** Bing Image Creator (DALL-E 3) — free tier
+- **Image generation:** DALL-E 3
 - **Prompting method:** Advanced text prompting with negative prompts, aspect ratios, lighting descriptors, and style anchoring
 
 ---
