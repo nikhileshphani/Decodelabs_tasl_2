@@ -21,7 +21,7 @@ All 5 images follow a unified visual language: dark backgrounds, neon-outlined g
 
 **Prompt used:**
 ```
-Cyberpunk corporate brand ambassador, silver-haired executive woman in a black suit 
+Cyberpunk corporate brand ambassador, silver-haired executive man in a black suit 
 with glowing purple circuit-board lapels, rainy neon-lit city street at night, 
 "NEXUS CORPORATION" holographic billboard in background, dramatic rim lighting, 
 cinematic realism, photorealistic, 1:1 aspect ratio
